@@ -18,7 +18,6 @@
 ## Table of Contents
 
 * [Machine Vision](#Machine-Vision)
-  * [Sub Heading](#Sub-heading)
 * [The Repository](#The-repository)
 * [References](#References)
 
@@ -31,10 +30,6 @@ Central to machine vision are images, which are mappings from a 2D image space t
 
 Videos are nothing but a sequence of videos.
 
-
-## Sub heading
-
-Add content here.
 
 ## The Repository
 The repository for Machine Vision is like a folder or storage space that contains all the files such as code, documentation, images, and more related to real-world machine vision problems using Python 3 and OpenCV (Open Source Computer Vision). 
